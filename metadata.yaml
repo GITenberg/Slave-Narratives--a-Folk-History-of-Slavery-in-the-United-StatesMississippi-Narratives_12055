@@ -1,0 +1,31 @@
+_repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesMississippi-Narratives_12055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Work Projects Administration
+    alias: Administration, Work Projects
+    gutenberg_agent_id: '3906'
+    url: http://www.gutenberg.org/2009/agents/3906
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Mississippi -- Biography'
+- !lcsh 'Slaves -- Mississippi -- Biography'
+- !lcsh 'African Americans -- Mississippi -- Interviews'
+- !lcsh 'African Americans -- Biography'
+- GITenberg
+title: 'Slave Narratives: a Folk History of Slavery in the United States
+
+  From Interviews with Former Slaves
+
+  Mississippi Narratives'
+url: http://www.gutenberg.org/ebooks/12055
