@@ -1,5 +1,8 @@
 _repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesMississippi-Narratives_12055
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: United States. Work Projects Administration
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3906'
     url: http://www.gutenberg.org/2009/agents/3906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12055#Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesMississippi-Narratives
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
